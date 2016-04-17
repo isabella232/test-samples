@@ -8,8 +8,12 @@ If possible, each file should either
 - have one or multiple PNG files (one per page) showing the expected result
 
 If you want to contribute a sample you can fork this repository, add a directory with
+
 - the new `.sla` file
 - all the external resources needed to test the file (fonts, images, ..),
 - a `README.md` explaining what is being tested
-and finally  make a pull request.  
+and finally  make a pull request.
+
 Or you can zip your files and add it to the [Scribus bug tracker](http://bugs.scribus.net).
+
+The files that are useful for the Scribus team will also be added to the [official test directory](https://github.com/scribusproject/scribus/tree/master/resources/tests) in the Scribus repository.
