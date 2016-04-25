@@ -10,7 +10,7 @@ If possible, each file should either
 If you want to contribute a sample you can fork this repository, add a directory with
 
 - the new `.sla` file
-- all the external resources needed to test the file (fonts, images, ..),
+- all the external resources needed to test the file (fonts, images, ...; you can use "File > Collect for output" to get all the file in one directory),
 - a `README.md` explaining what is being tested
 and finally  make a pull request.
 
